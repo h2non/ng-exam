@@ -2,6 +2,8 @@
 
 > Are you ready to become a good developer in an Angular based project? Let's see it!
 
+<img src="http://oi62.tinypic.com/wa0etz.jpg" width="420" />
+
 ## Target developers
 
 - Front End Developer 
