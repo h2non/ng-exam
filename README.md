@@ -2,9 +2,12 @@
 
 > Are you ready to become a good developer in an Angular based project? Let's see it!
 
-## Developer skills
+## Target developers
 
-- Front End developer 
+- Front End Developer 
+- Full Stack Web Developer
+- JavaScript Developer
+- Ambitious Developer
 
 ## Pre-requisites
 
@@ -17,8 +20,11 @@ You must have installed the following tools before start the exam
 
 ## Requisites
 
-- HTML/Jade knowledge
-- JavaScript knowledge
+Clone this repository
+```
+
+```
+
 
 ## The "exam"
 
