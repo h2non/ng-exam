@@ -18,10 +18,6 @@ that can be used as seed project to provide a ready-to-use pre-configured develo
 It also provides a real back-end WebService powered by Node.js and Express that should be consumed 
 by the front
 
-<!--
-<img src="http://oi62.tinypic.com/wa0etz.jpg" width="420" />
--->
-
 ## Target developers
 
 - Front End Developer 
@@ -65,27 +61,39 @@ $ bower install
 ### Goal
 
 This exam aims to evaluate a general technical skillsets applied to a Web development
-based on Angular taken from a well undestanding of the JavaScript language to a well
-the proper implementation and framework features usage
+based on Angular taken from a well undestanding of the JavaScript language and the event-driven programming 
+to a well the proper implementation and framework features usage
 
 ### Conditions
 
-- You can create your own folder structure
+- You **can** create your own folder structure and sources files as you need
 - You **cannot** use any JavaScript library that is not already provided
-- As a great developer, you should test your code (however is not require to have full test coverage)
-- The Web is your friend, you can read documentation and search help
-- You cannot edit must pass the provided JSHint validation directives
+- As a great developer, you **should test** your code (however is not require to have full test coverage)
+- The Web is your friend, you **can** read documentation and search help
+- You **cannot** edit must pass the provided JSHint validation directives
 
 ### Duration
 
-As recommendation, this exam should be performed in a maximun of 2 practical hour 
+As recommendation, this exam should be performed in a maximun of **2 practical hour** 
 (that mean discarding the time taken installing and setting up the environment)
 
 ### Scenario
 
-You have a seed Web application based without 
+You have a seed Web application with an initial structure 
 
 ### Implementation requeriments
+
+Given the existent login page
+
+### API WebService endpoints
+
+All the communication must be performed in JSON format
+
+#### /api/user/login [POST]
+
+#### /api/user/register [POST]
+
+#### /api/users [GET]
 
 ### Tips
 
