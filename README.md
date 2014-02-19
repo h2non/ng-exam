@@ -121,18 +121,19 @@ All the back-end communication must be performed in JSON format
 - [Angular Guide](http://docs.angularjs.org/guide/concepts)
 - [Angular Style Guide](https://github.com/mgechev/angularjs-style-guide)
 - [Angular Overview](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
+- [Angular Testing Guide](http://docs.angularjs.org/guide/dev_guide.unit-testing)
 
 ## Evaluation criteria
 
 The order is irrelevant
 
 - Requirements satisfied
+- Design patterns and separation of concerns
+- Code structuration and modularity
 - Impletementation complexibility
-- Proper usage of the framework components and features
-- Proper JavaScript language usage
-- Code conventions
-- Design patterns
-- Structuration and modularity
+- Proper use of the framework features and components 
+- Proper JavaScript implementation 
+- Coding conventions
 
 ## License
 
