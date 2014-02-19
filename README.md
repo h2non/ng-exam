@@ -112,7 +112,7 @@ All the back-end communication must be performed in JSON format
 - Use the features that the framework offers you
 - Remember [YAGNI][yagni], [KISS][kiss] and [DRY][dry] principles when you are coding
 
-### Are you ready?
+### Finally...
 
 <img src="http://oi58.tinypic.com/2m3r9ly.jpg" width="220" />
 
