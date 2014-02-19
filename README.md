@@ -1,12 +1,14 @@
 # ng-exam
 
 > Are you ready to become a great developer in a real AngularJS based project? Let's see it!
+
 > **beta!**
 
 ## About
 
-Do you want to start a new project with AngularJS?
-So, are you sure that developers are able to join the project? 
+**Do you want to start a new project with AngularJS?**
+
+**Are you sure that developers are able to join the project?**
 
 Be naughty and put them to the test!
 
@@ -25,15 +27,15 @@ by the front
 - Front End Developer 
 - Full Stack Web Developer
 - JavaScript Developer
-- BackEnd Developer
+- Ambitious developers
 
 ### Prefered skills
 
-Ideally you should be familiar or you have ever heard about:
+Ideally you should be familiar:
 
 - Node.js
 - Jade
-- SASS/SCSS
+- MVVM frameworks
 
 ## Pre-requisites
 
@@ -62,18 +64,16 @@ $ bower install
 
 ### Goal
 
-This exam aims to evaluate a general technicals skillsets applied to a Web applications
-based on Angular
-taken from it's undestanding of the JavaScript language and particularities
+This exam aims to evaluate a general technical skillsets applied to a Web development
+based on Angular taken from a well undestanding of the JavaScript language to a well
+the proper implementation and framework features usage
 
-- General JavaScript knowlegde
-- AngularJS framework knowlegde
+### Conditions
 
-### Pre-conditions
-
+- You can create your own folder structure
 - You **cannot** use any JavaScript library that is not already provided
-- As a great developer, you should test your code (but full test coverage is not required)
-- The Web is your friend, you can read documentation
+- As a great developer, you should test your code (however is not require to have full test coverage)
+- The Web is your friend, you can read documentation and search help
 - You cannot edit must pass the provided JSHint validation directives
 
 ### Duration
@@ -83,22 +83,27 @@ As recommendation, this exam should be performed in a maximun of 2 practical hou
 
 ### Scenario
 
-You have a seed Web application based 
+You have a seed Web application based without 
+
+### Implementation requeriments
 
 ### Tips
 
 - Focus on the requirements to satisfy
-- Documentation should be your friend, feel free to read it
 - Use the features that the framework offers you
 - Remember [YAGNI][yagni], [KISS][kiss] and [DRY][dry] principles when you are coding
 
-### Useful links
+### Are you ready?
+
+<img src="http://oi58.tinypic.com/2m3r9ly.jpg" width="220" />
+
+## Useful links
 
 - [Angular Style Guide](https://github.com/mgechev/angularjs-style-guide)
 
 ## Evaluation criteria
 
-Order don't matters
+The order is irrelevant
 
 - Requirements satisfied
 - Impletementation complexibility
