@@ -74,7 +74,7 @@ to a well the proper implementation and framework features usage
 
 ### Duration
 
-As recommendation, dependening of your desired develoeprs filter level skillset, 
+As recommendation, dependening of your desired developers filter level skillset, 
 the exam could be done from **2 hours** for experienced developers until to **24 hours**
 (that mean discarding the time taken installing and setting up the environment)
 
