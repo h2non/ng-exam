@@ -68,32 +68,43 @@ to a well the proper implementation and framework features usage
 
 - You **can** create your own folder structure and sources files as you need
 - You **cannot** use any JavaScript library that is not already provided
-- As a great developer, you **should test** your code (however is not require to have full test coverage)
+- As a great developer, you **should test** your code (however is not required a full test coverage, just focus on the most critical code)
 - The Web is your friend, you **can** read documentation and search help
-- You **cannot** edit must pass the provided JSHint validation directives
+- You **cannot** mofidy the provided JSHint validation directives
 
 ### Duration
 
-As recommendation, this exam should be performed in a maximun of **2 practical hour** 
+As recommendation, dependening of your desired develoeprs filter level skillset, 
+the exam could be done from **2 hours** for experienced developers until to **24 hours**
 (that mean discarding the time taken installing and setting up the environment)
 
 ### Scenario
+
+**To do!**
 
 You have a seed Web application with an initial structure 
 
 ### Implementation requeriments
 
-Given the existent login page
+**To do!**
+
+Given the existent login page...
 
 ### API WebService endpoints
 
-All the communication must be performed in JSON format
+All the back-end communication must be performed in JSON format
 
 #### /api/user/login [POST]
 
 #### /api/user/register [POST]
 
 #### /api/users [GET]
+
+#### /api/users/:id [GET]
+
+#### /api/users/:id [DELETE]
+
+#### /api/users/:
 
 ### Tips
 
@@ -107,7 +118,9 @@ All the communication must be performed in JSON format
 
 ## Useful links
 
+- [Angular Guide](http://docs.angularjs.org/guide/concepts)
 - [Angular Style Guide](https://github.com/mgechev/angularjs-style-guide)
+- [Angular Overview](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
 ## Evaluation criteria
 
