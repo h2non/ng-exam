@@ -1,29 +1,25 @@
 # ng-exam
 
-> Are you ready to become a great developer in a real AngularJS based project? Let's see it!
-
 > **beta!**
 
 ## About
 
-**Do you want to start a new project with AngularJS?**
-
-**Are you sure that developers are able to join the project?**
+**Do you want to start a new project with AngularJS? Are you sure that developers are able to join the project?**
 
 Be naughty and put them to the test!
 
-This repository host a static Web application based on AngularJS, Express, Jade and Bootstrap
+This repository host a static Web application based on AngularJS, Jade and Bootstrap
 that can be used as seed project to provide a ready-to-use pre-configured development environment
 
-It also provides a real back-end WebService powered by Node.js and Express that should be consumed 
-by the front
+It also provides a simple back-end WebService powered by Node.js and Express that should be consumed 
+by the front-end application
 
 ## Target developers
 
 - Front End Developer 
 - Full Stack Web Developer
 - JavaScript Developer
-- Ambitious developers
+- Ambitious Developer
 
 ### Prefered skills
 
@@ -41,7 +37,7 @@ Is required you have previously installed the following tools:
 - Grunt (`npm install -g grunt-cli`)
 - Bower (`npm install -g bower`)
 
-## Setup the environment
+## Setup
 
 Clone/fork this repository (or just [download](https://github.com/h2non/ng-exam/archive/master.zip) the archive)
 ```
@@ -123,9 +119,16 @@ All the back-end communication must be performed in JSON format
 - [Angular Overview](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 - [Angular Testing Guide](http://docs.angularjs.org/guide/dev_guide.unit-testing)
 
-## Evaluation criteria
+## Evaluation
 
-The order is irrelevant
+### Code peer review
+
+If it's possible, the implementation should be evaluated performing a code peer review by the both parts,
+giving the possibility to the candidate to explain his implementation desicisions
+
+### Criteria
+
+The order is not relevant
 
 - Requirements satisfied
 - Design patterns and separation of concerns
@@ -133,7 +136,7 @@ The order is irrelevant
 - Impletementation complexibility
 - Proper use of the framework features and components 
 - Proper JavaScript implementation 
-- Coding conventions
+- Coding style and conventions
 
 ## License
 
